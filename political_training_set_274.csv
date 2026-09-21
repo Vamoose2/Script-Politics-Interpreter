@@ -1,0 +1,274 @@
+id,text,label
+1,The government should increase taxes on very high incomes.,left
+2,Public services should be funded through progressive taxation.,left
+3,Workers should have stronger legal protections against unfair dismissal.,left
+4,Trade unions should have greater bargaining power.,left
+5,The minimum wage should rise with the cost of living.,left
+6,Employees should receive a larger share of the profits they help create.,left
+7,Companies should provide paid sick leave to all workers.,left
+8,Zero-hours contracts should be heavily restricted.,left
+9,People working full time should be able to afford basic necessities.,left
+10,Executives should face higher taxes on very large bonuses.,left
+11,Corporations should pay more tax on their profits.,left
+12,Tax loopholes that primarily benefit wealthy individuals should be closed.,left
+13,Public ownership can be appropriate for essential utilities.,left
+14,Railways should be operated as a public service rather than primarily for profit.,left
+15,Water services should be publicly owned.,left
+16,Energy infrastructure should be subject to strong public oversight.,left
+17,Healthcare should be available to everyone regardless of income.,left
+18,Government should increase funding for publicly provided healthcare.,left
+19,Essential medicines should be affordable to patients.,left
+20,Mental health services should receive substantially more public funding.,left
+21,Universities should receive enough public funding to reduce reliance on tuition fees.,left
+22,Higher education should be accessible to students from low-income families.,left
+23,School funding should be distributed according to educational need.,left
+24,Childcare should be treated as an important public service.,left
+25,Social care should receive greater government funding.,left
+26,People who cannot work because of disability should receive adequate financial support.,left
+27,Unemployment benefits should provide enough income for people to live with dignity.,left
+28,Social security should protect people from poverty during periods of hardship.,left
+29,Affordable housing should be expanded through public investment.,left
+30,Governments should build more social housing.,left
+31,Renters should have stronger protections against excessive rent increases.,left
+32,Homelessness should be addressed through housing and support rather than punishment.,left
+33,Local authorities should receive more funding for housing.,left
+34,Public transport should be affordable and widely available.,left
+35,"Cities should invest more in buses, trains, cycling, and walking infrastructure.",left
+36,Transport policy should prioritise reducing dependence on private cars.,left
+37,Climate policy should require major reductions in greenhouse-gas emissions.,left
+38,Governments should invest heavily in renewable energy.,left
+39,Polluting industries should bear more of the costs of environmental damage.,left
+40,Environmental regulations should be strengthened when necessary to protect ecosystems.,left
+41,Workers affected by the transition away from fossil fuels should receive public support.,left
+42,Climate action should include investment in green jobs.,left
+43,Large corporations should be held accountable for environmental harm.,left
+44,Companies should disclose their environmental impact more fully.,left
+45,Governments should protect biodiversity even when doing so limits some commercial activity.,left
+46,Clean air should be treated as a public health priority.,left
+47,Immigration can contribute positively to society and the economy.,left
+48,Refugees fleeing persecution should have access to protection.,left
+49,Asylum applications should be assessed fairly and efficiently.,left
+50,Migrants who work and pay taxes should have access to basic public services.,left
+51,Integration programmes should receive public funding.,left
+52,Immigration policy should respect international refugee protections.,left
+53,Citizens should have stronger protections against discrimination.,left
+54,Anti-discrimination laws should cover employment and housing.,left
+55,Police powers should be subject to strong independent oversight.,left
+56,Law enforcement should be accountable when officers misuse their powers.,left
+57,Prisons should focus more on rehabilitation and reducing reoffending.,left
+58,Criminal justice policy should address the social causes of crime.,left
+59,People leaving prison should receive support with housing and employment.,left
+60,Governments should invest in violence prevention and community services.,left
+61,Public safety can be improved through investment in disadvantaged communities.,left
+62,Privacy should be strongly protected from unnecessary government surveillance.,left
+63,Digital platforms should face stronger rules protecting users' personal data.,left
+64,Workers should have greater rights over how automated systems affect their employment.,left
+65,Artificial intelligence should be regulated when it creates significant social risks.,left
+66,Large technology companies should face stronger competition rules.,left
+67,Internet access should be treated as an important modern necessity.,left
+68,Public institutions should make essential digital services accessible to everyone.,left
+69,Political donations should be subject to stricter transparency requirements.,left
+70,Lobbying should be regulated more strictly.,left
+71,Government decision-making should be as transparent as possible.,left
+72,Citizens should have greater opportunities to participate in local decision-making.,left
+73,Electoral systems should aim to give voters broader representation.,left
+74,Voting should be made easier for people who face practical barriers.,left
+75,Democratic institutions should protect the rights of political minorities.,left
+76,Governments should consult affected communities before making major policy changes.,left
+77,International cooperation is important for addressing global problems.,left
+78,Countries should cooperate more closely on climate change.,left
+79,International development assistance can reduce severe poverty abroad.,left
+80,Trade agreements should include strong labour and environmental standards.,left
+81,Multinational corporations should not be able to avoid taxation simply by shifting profits between countries.,left
+82,Global institutions should be accountable to the populations affected by their decisions.,left
+83,Military spending should be balanced against spending on domestic public services.,left
+84,Diplomacy should be prioritised where it can prevent armed conflict.,left
+85,Governments should accept more responsibility for helping civilians affected by war.,left
+86,Peacebuilding and humanitarian assistance should receive adequate funding.,left
+87,Workplace equality should be actively promoted.,left
+88,Employers should take stronger action against discrimination.,left
+89,Parental leave should be available to all parents.,left
+90,Care work should be recognised as economically and socially valuable.,left
+91,Gender equality should be supported through workplace and social policy.,left
+92,Public policy should reduce barriers faced by disabled people.,left
+93,Buildings and transport should be designed to be accessible to disabled people.,left
+94,Older people should have access to adequately funded social care.,left
+95,Public policy should reduce extreme inequality of wealth and opportunity.,left
+96,People should not be denied basic opportunities because they were born into poverty.,left
+97,Government investment can help reduce regional economic inequalities.,left
+98,Public spending should prioritise reducing severe deprivation.,left
+99,Essential infrastructure should be accessible regardless of people's income.,left
+100,Companies should be discouraged from exploiting workers with insecure employment.,left
+101,Workers should have a stronger voice in major decisions affecting their workplaces.,left
+102,Employees should be allowed to organise collectively without intimidation.,left
+103,Businesses that receive public subsidies should meet strong labour standards.,left
+104,Government procurement should consider workers' rights and environmental impacts.,left
+105,Public investment can stimulate economic activity during recessions.,left
+106,Governments should use fiscal policy to protect employment during severe downturns.,left
+107,Economic growth should be considered alongside environmental and social outcomes.,left
+108,National prosperity should be measured using more than gross domestic product.,left
+109,Public investment in infrastructure can create long-term social benefits.,left
+110,Markets do not always provide affordable access to essential goods.,left
+111,Government regulation is sometimes necessary when markets produce harmful outcomes.,left
+112,Competition policy should prevent dominant firms from abusing their market power.,left
+113,Consumers need strong legal protection against unfair business practices.,left
+114,Financial institutions should face strong safeguards against systemic risks.,left
+115,Banking regulation should protect the wider economy from excessive risk-taking.,left
+116,Large financial institutions should contribute more toward the costs of financial regulation.,left
+117,People should have access to affordable legal assistance when they cannot otherwise obtain it.,left
+118,Public libraries and community centres are valuable public services.,left
+119,Arts and culture should receive some public funding.,left
+120,Public broadcasting should remain independent and adequately funded.,left
+121,Governments should support journalism that serves the public interest.,left
+122,Scientific research should receive sustained public investment.,left
+123,Access to research funded by taxpayers should be as open as practical.,left
+124,Public policy should be based on strong evidence rather than short-term political pressure.,left
+125,Government should address inequalities in access to technology and education.,left
+126,Children should receive nutritious food at school when families need assistance.,left
+127,School meals should be free for children from low-income households.,left
+128,Early childhood education can justify substantial public investment.,left
+129,Preventive healthcare can reduce long-term pressure on health services.,left
+130,Public health campaigns should address inequalities in health outcomes.,left
+131,Essential healthcare should not depend primarily on a person's ability to pay.,left
+132,People should have meaningful rights at work even when they are employed by private companies.,left
+133,Employers should provide safe working conditions and face meaningful penalties for serious violations.,left
+134,Corporate boards should consider the interests of workers as well as shareholders.,left
+135,Short-term shareholder returns should not always take priority over long-term social interests.,left
+136,Governments should protect consumers from exploitative lending practices.,left
+137,Debt advice should be publicly available to people facing financial hardship.,left
+138,Tax rates on high earners should remain low enough to encourage investment.,right
+139,People should generally keep more of the income they earn.,right
+140,Businesses should face fewer regulations that make hiring more difficult.,right
+141,Employers and employees should have more freedom to negotiate workplace terms.,right
+142,Minimum-wage increases should take account of their effect on employment.,right
+143,Businesses should retain a larger share of profits for investment.,right
+144,Paid leave requirements should give employers flexibility.,right
+145,Zero-hours contracts can provide useful flexibility for some workers.,right
+146,Government policy should encourage people to move into employment rather than rely on benefits.,right
+147,Executive pay should primarily be determined by companies and their shareholders.,right
+148,Corporate taxes should be kept competitive with other countries.,right
+149,Tax systems should avoid unnecessary complexity and loopholes for all taxpayers.,right
+150,Essential services can often be delivered efficiently by private companies.,right
+151,Rail services should be allowed to compete to improve efficiency.,right
+152,Water services can be privately operated under appropriate regulation.,right
+153,Energy markets should encourage private investment and competition.,right
+154,Healthcare should combine public provision with a strong role for private providers.,right
+155,Healthcare funding should focus on improving efficiency as well as increasing spending.,right
+156,Patients should have greater choice among healthcare providers.,right
+157,Private healthcare can reduce pressure on publicly funded services.,right
+158,Universities should have more freedom to set fees and courses according to demand.,right
+159,Students should contribute toward the cost of higher education when they benefit from it.,right
+160,Schools should have greater autonomy over how they use their budgets.,right
+161,Parents should have more choice over childcare arrangements.,right
+162,Social care should make greater use of individual contributions where people can afford them.,right
+163,Benefits should be targeted toward people who genuinely need financial assistance.,right
+164,Unemployment support should include strong incentives to seek work.,right
+165,Social security should be financially sustainable over the long term.,right
+166,Housing supply should be increased by making it easier to build new homes.,right
+167,Private developers should play a major role in expanding housing supply.,right
+168,Rent controls can discourage investment in rental housing.,right
+169,Homelessness policy should combine personal responsibility with targeted assistance.,right
+170,Local planning rules should not unnecessarily restrict new housing construction.,right
+171,Public transport should compete for passengers and demonstrate value for money.,right
+172,Transport policy should preserve people's freedom to choose how they travel.,right
+173,Investment in roads remains important for economic activity.,right
+174,Climate policy should avoid imposing excessive costs on households and businesses.,right
+175,Renewable energy should compete in markets without unnecessary subsidies.,right
+176,Environmental regulations should consider their effects on economic growth.,right
+177,Workers in declining industries should be helped mainly through retraining and employment opportunities.,right
+178,Climate policy should encourage private-sector innovation.,right
+179,Businesses should have clear and predictable environmental rules.,right
+180,Environmental policy should balance conservation with economic development.,right
+181,Clean-air policy should focus on effective measures that do not impose unnecessary costs.,right
+182,Immigration levels should be controlled according to national economic and social capacity.,right
+183,Refugee policy should distinguish asylum from general immigration.,right
+184,Asylum systems should prevent abuse while protecting people with genuine claims.,right
+185,Migrants should meet the same contribution and eligibility requirements as other residents where appropriate.,right
+186,Integration should emphasise learning the language and participating in the labour market.,right
+187,Immigration policy should prioritise secure borders and lawful entry.,right
+188,Anti-discrimination laws should be applied consistently without creating unnecessary restrictions on speech.,right
+189,Police need sufficient powers to prevent and investigate crime.,right
+190,Police oversight should not prevent officers from carrying out their duties effectively.,right
+191,Prisons should protect the public and impose meaningful consequences for serious crimes.,right
+192,Criminal justice policy should place substantial emphasis on personal responsibility.,right
+193,People leaving prison should be encouraged to find work and support themselves.,right
+194,Crime prevention should include effective policing and enforcement.,right
+195,Public safety requires sufficient police resources.,right
+196,Government surveillance powers can be justified when they are necessary to prevent serious crime.,right
+197,Technology companies should protect privacy while complying with lawful investigations.,right
+198,Businesses need flexibility to adopt automation without excessive regulation.,right
+199,Artificial intelligence regulation should avoid preventing useful innovation.,right
+200,Technology markets should remain open to competition without unnecessary government intervention.,right
+201,Internet services should generally be provided through competitive markets.,right
+202,Digital government services should prioritise efficiency and cost effectiveness.,right
+203,Political donations should be transparent but individuals should retain freedom to support causes they choose.,right
+204,Lobbying is a legitimate part of democratic participation when properly disclosed.,right
+205,Government transparency should be balanced against privacy and national security.,right
+206,Citizens should participate in politics primarily through established democratic institutions.,right
+207,Electoral systems should preserve clear links between representatives and geographic constituencies.,right
+208,Voting procedures should protect election security while remaining accessible.,right
+209,Majority rule is an important principle in democratic government.,right
+210,Governments should consult communities while retaining responsibility for making decisions.,right
+211,Countries should cooperate internationally while preserving national sovereignty.,right
+212,Climate agreements should not impose disproportionate costs on individual countries.,right
+213,Foreign aid should be targeted toward measurable outcomes and accountable programmes.,right
+214,Trade agreements should reduce barriers to international commerce.,right
+215,Countries should ensure multinational companies cannot exploit differences between tax systems.,right
+216,International organisations should respect the sovereignty of member states.,right
+217,Defence spending is necessary to maintain national security.,right
+218,Military capability can help deter aggression and prevent conflict.,right
+219,Foreign policy should protect national security interests.,right
+220,Humanitarian assistance should be provided while considering long-term costs and effectiveness.,right
+221,Peace negotiations should be supported when they serve national and international security.,right
+222,Employers should be free to make hiring decisions based on legitimate business needs.,right
+223,Workplace equality should be enforced through clear and consistent rules.,right
+224,Parental leave policies should balance family needs with the costs faced by employers.,right
+225,Care work should be supported without unnecessarily distorting labour markets.,right
+226,Equality before the law is preferable to policies that treat people differently by group.,right
+227,Disabled people should have equal access while regulations remain proportionate for employers.,right
+228,Accessibility requirements should be implemented in ways that consider costs and practical constraints.,right
+229,Families should have flexibility to choose how they arrange care for older relatives.,right
+230,Government should focus on equality of opportunity rather than equal outcomes.,right
+231,"People should be rewarded for work, investment, and entrepreneurship.",right
+232,Regional development should encourage private investment rather than rely primarily on government spending.,right
+233,Anti-poverty policy should focus on employment and economic growth.,right
+234,Essential infrastructure should be funded using sustainable long-term financing.,right
+235,Employment regulations should not make businesses reluctant to hire.,right
+236,Workers and employers should be free to negotiate appropriate workplace arrangements.,right
+237,Employees should be able to join unions voluntarily without compulsory membership.,right
+238,Businesses receiving public subsidies should have clear performance requirements rather than broad social obligations.,right
+239,Government procurement should prioritise value for money.,right
+240,Private investment can often deliver infrastructure more efficiently than government programmes.,right
+241,Governments should avoid large deficits except during exceptional circumstances.,right
+242,Fiscal policy should prioritise sustainable public finances.,right
+243,Economic growth is important for raising living standards.,right
+244,GDP remains an important measure of economic performance.,right
+245,Private investment is essential for expanding productive capacity.,right
+246,Competitive markets often allocate resources more efficiently than central planning.,right
+247,Government intervention should be limited when markets are functioning effectively.,right
+248,Competition policy should protect competition without unnecessarily breaking up successful firms.,right
+249,Consumer choice is often strengthened by allowing businesses to compete freely.,right
+250,Financial regulation should prevent excessive risk while preserving access to credit.,right
+251,Banks should be regulated carefully without making lending unnecessarily expensive.,right
+252,Large financial institutions should be subject to rules that preserve financial stability.,right
+253,Legal aid should be targeted toward cases where public assistance is most necessary.,right
+254,Community services should demonstrate clear value before receiving public funding.,right
+255,Arts organisations should seek a mix of public and private funding.,right
+256,Public broadcasters should remain independent while demonstrating value to taxpayers.,right
+257,Journalism should be supported primarily through sustainable private and subscription models.,right
+258,Scientific research should involve both public funding and private investment.,right
+259,Research funded by taxpayers should balance openness with intellectual property rights.,right
+260,Public policy should consider expert evidence alongside practical economic constraints.,right
+261,Digital inequality should be addressed through education and infrastructure rather than broad subsidies.,right
+262,Parents should have flexibility over how they provide food for their children.,right
+263,School meal programmes should be targeted toward children who need financial assistance.,right
+264,Early childhood education should include a meaningful role for families and private providers.,right
+265,Preventive healthcare should be encouraged when it provides demonstrable value.,right
+266,Public health policy should balance health benefits against individual freedom.,right
+267,Healthcare systems should give patients more choice where practical.,right
+268,Private companies can provide useful employment protections alongside legal minimum standards.,right
+269,Workplace safety rules should be strong but proportionate to the risks involved.,right
+270,Corporate boards should primarily focus on the long-term interests of the company and its owners.,right
+271,Shareholder returns provide incentives for investment and entrepreneurship.,right
+272,Consumer-credit regulation should protect people from fraud while preserving access to borrowing.,right
+273,Debt advice should encourage responsible borrowing and repayment.,right
